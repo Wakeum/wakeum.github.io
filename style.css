@@ -4,7 +4,8 @@ body {
     flex-wrap: wrap;
 }
 .content{
-       height: 100vh;
+       display:flex;
+       height: 150vh;
 }
 img {
     width: 100%;
