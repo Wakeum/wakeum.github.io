@@ -34,7 +34,7 @@ sidebar {
 }
 
 main{
-    text-align
+    text-align: center;
     width: 50%;
     padding-right:5%;
     border-right: 2px solid black;
