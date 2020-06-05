@@ -34,6 +34,8 @@ sidebar {
 }
 
 main{
+    display: flex;
+    flex-direction: column;
     text-align: center;
     width: 50%;
     padding-right:5%;
