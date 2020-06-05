@@ -5,7 +5,8 @@ body {
 }
 .content{
        display:flex;
-       height: 150vh;
+       height: 100%;
+       min-height: 100vh;
 }
 img {
     width: 100%;
