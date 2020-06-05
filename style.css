@@ -3,6 +3,7 @@ body {
     flex-wrap: wrap;
 }
 .content{
+       height: 100vh;
 }
 img {
     width: 100%;
@@ -26,11 +27,13 @@ h4 {
 }
 
 sidebar {
+    display: flex;
+    flex-direction: column;
     padding-left:3%;
     width: 30%;
 }
 
-main {
+main{
     text-align
     width: 50%;
     padding-right:5%;
