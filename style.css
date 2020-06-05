@@ -8,6 +8,7 @@ img {
 }
 
 h1 {
+    text-align:center;
     font-size: 70px;
 }
 
@@ -29,6 +30,7 @@ sidebar {
 }
 
 main {
+    text-align
     width: 50%;
     padding-right:5%;
     border-right: 2px solid black;
