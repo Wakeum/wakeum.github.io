@@ -29,4 +29,6 @@ sidebar {
 
 main {
     width: 67%;
+    padding-right:10%;
+    border-right: 2px solid black;
 }
